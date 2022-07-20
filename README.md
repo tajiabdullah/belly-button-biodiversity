@@ -1,12 +1,12 @@
-# Plot.ly Homework
+![bacteria](https://user-images.githubusercontent.com/95979913/179897566-e6a6e9f5-6fbb-49bc-b163-03fe19bf1db1.jpg)
 
-## *Belly Button Biodiversity*
+# *Belly Button Biodiversity*
 
 For this project, I built an interactive dashboard to explore a Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels. The before-mentioned dataset revealed that a small handful of microbial species called operational taxonomic units (OTUs) were present in more than 70% of people.
 
 Furthermore, for this project, I completed the following steps as follows. 
 
-1. Used the D3 library to read in `samples.json`.
+1. Used the D3 library to read in samples.json.
 
 2. Created a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
